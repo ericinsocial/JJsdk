@@ -1,0 +1,29 @@
+v1.3.3
+1. Fixed the previewing issue caused by racing condition
+2. Added support for the new ToF VID/PID
+3. Added Tof gesture event, supported since v.1.2.2 FW
+4. Update Unity/Android Demo Apps
+5. Update API documentation
+
+v1.3.1
+1. Fix the manual focus and zoom features
+2. Update Unity/Android Demo Apps
+3. Improve system stability
+4. Update API documentation
+
+v1.3
+1. Add TofManager api
+2. Add display getDusplayMode, getLimitation, getDisplayTemp.
+3. Add TofManager Demo App
+
+v1.2
+1. Add display mute api
+2. Add display mute api test into demo app.
+
+v1.1
+1. Fix issue that camera perview will invert 180 degree.
+2. Add manual focus and zoom in/out api 
+
+v1.0
+1. The SDK version is 1.0
+2. It contents Android Sample code, JJSDK binary .aar file, API Doc, User Guide,and Unity Sample code.
